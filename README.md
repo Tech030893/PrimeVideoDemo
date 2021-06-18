@@ -3,7 +3,7 @@
 This application is a demo and a slight reflection of Amazon Prime Video. App is created programmatically as well as using storyboard. This app does not function like the real Prime VIdeo App. This app is just for demo purpose.
 
 ## Programming language used
-- Swift 
+- Swift 5
 
 ## Deployment Info
 - iOS 14.3
